@@ -1,5 +1,5 @@
 # EMBER2_human
-[EMBER2](https:/github.com/kWeissenow/EMBER2) inter-residue distance predictions for the human proteome (< 3000 residues)
+[EMBER2](https://github.com/kWeissenow/EMBER2) inter-residue distance predictions for the human proteome (< 3000 residues)
 
 # Included files
 
